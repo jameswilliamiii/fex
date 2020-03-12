@@ -8,10 +8,10 @@
 :rate:
   :client:
     :env_namespace: soapenv
-    :namespace_identifier: v13
+    :namespace_identifier: v26
   :version:
     :service_id: crs
-    :major: 13
+    :major: 26
     :intermediate: 0
     :minor: 0
 :ship:
