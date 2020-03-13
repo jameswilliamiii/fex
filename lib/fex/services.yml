@@ -17,11 +17,11 @@
 :ship:
   :client:
     :env_namespace: soapenv
-    :namespace_identifier: v13
+    :namespace_identifier: v25
   :response: "ShipResponse"
   :version:
     :service_id: ship
-    :major: 13
+    :major: 25
     :intermediate: 0
     :minor: 0
 :track:
